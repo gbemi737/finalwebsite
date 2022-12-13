@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Playfair+Display:wght@400;500&family=Spectral:wght@300;400&display=swap');
+
+.top{
+  display: flex;
+  flex-direction: row;
+}
+.navLink{
+  font-family:'Spectral', serif;
+  font-size: 25px;
+  color:#3D5E36;
+  text-decoration: none;
+  padding-left: 70px;
+  padding-top: 60px;
+}
+body{
+  background-color: #bcc1b7;
+}
+h1{
+  font-family: 'Spectral',cursive, serif;
+  font-size: 50px;
+  color: #636E3F;
+}
+h2{
+  font-family: 'Spectral',cursive, serif;
+  font-size: 40px;
+  color: #333334;
+}
+.methods{
+  display: flex;
+  font-size: 25px;
+  flex-direction: column;
+  padding: 20px;
+  background-color:#8E918A;
+  border-radius: 10px;
+}
+a{
+  font-family: 'Spectral',cursive, serif;
+  font-size: 25px;
+  color: #314031;
+  font-weight: bold;
+  text-decoration: none;
+padding-bottom: 10px;
+}
+p{
+  font-family: 'Spectral',cursive, serif;
+  font-size: 27px;
+  color: #333334;
+}
